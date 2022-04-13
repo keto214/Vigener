@@ -72,6 +72,14 @@ if ($_SERVER['REQUEST_METHOD'] == "POST")
 		<script type="text/javascript" src="Script.js"></script>
 	</head>
 	<body>
+	<ul class="nav" style="font-size: 30px;
+	list-style-type: none;
+	text-align: center;
+	margin: 0;
+	padding: 0; text-decoration: none;">
+		<li><a class="vigerner" href="index.php" style="text-decoration: none;">Mã hoá Vigener</a></li>
+		<li><a href="list.php" style="text-decoration: none;">Danh sách nhóm</a></li>
+		</ul>
 		<br><br><br>
 		<form action="index.php" method="post">
 			<table cellpadding="5" align="center" cellpadding="2" border="7">
