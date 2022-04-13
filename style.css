@@ -1,0 +1,30 @@
+textarea {
+	width: 500;
+	height: 200;
+	background-color: E0E0E0;
+	color: #0d0d13;
+}
+
+input {
+	font-family: Courier New;
+}
+
+.button {
+	width: 500;
+	height: 40;
+}
+
+b {
+	font-size: 20pt;
+	color: #524343;
+}
+
+body {
+	background-color: #6b5555;
+	font-family: Courier New;
+}
+
+table {
+	border-color: #443535;
+	background-color: #533939;
+}
